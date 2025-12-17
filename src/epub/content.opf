@@ -50,7 +50,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/76323</dc:source>
 		<dc:source>https://archive.org/details/saintjoanchronic0000shaw_z6u7</dc:source>
-		<meta property="se:word-count">56620</meta>
+		<meta property="se:word-count">56619</meta>
 		<meta property="se:reading-ease.flesch">73.07</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Saint_Joan_(play)</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-bernard-shaw_saint-joan</meta>
