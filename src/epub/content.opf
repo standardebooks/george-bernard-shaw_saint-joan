@@ -43,7 +43,7 @@
 		<meta property="schema:genre">Drama</meta>
 		<meta id="collection-1" property="belongs-to-collection">Encyclopædia Britannica’s Great Books of the Western World</meta>
 		<meta property="collection-type" refines="#collection-1">set</meta>
-		<dc:abstract>Joan of Arc’s life story is retold, from her early life, to her campaigns, and beyond.</dc:abstract>
+		<meta property="schema:abstract">Joan of Arc’s life story is retold, from her early life, to her campaigns, and beyond.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Saint Joan&lt;/i&gt; stands out among &lt;a href="https://standardebooks.org/ebooks/george-bernard-shaw"&gt;George Bernard Shaw’s&lt;/a&gt; plays. He’s best known for drawing-room plays exploring social issues; here he writes something closer to a Shakespearean history play, following the fifteenth-century French national hero Joan of Arc through her campaigns and beyond.&lt;/p&gt;
 			&lt;p&gt;Shaw’s preface to the play argues that other tellings of Joan’s story do her a disservice by idealizing her and demonizing her antagonists. By refusing to show the prosecutors at Joan’s trial as cartoonish villains, Shaw introduces real drama into what could easily be cheap melodrama. And Shaw’s fully human Joan is one of his finest creations, which has attracted great actresses to the part from the 1920s to the present day. It is mostly on account of this deep characterization that this is considered by some to be Shaw’s greatest play.&lt;/p&gt;
